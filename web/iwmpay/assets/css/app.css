@@ -1,0 +1,45 @@
+/* Write your styles */
+
+.ap-topbar{margin:0;padding:0;border-bottom:2px solid #006600;}
+.ap-nav{float:right;}
+.ap-pay{margin-top:1.5rem;font-size:1.4rem;color: #34495e;min-height:71.2rem}
+.ap-pay-warn{font-weight:bold;margin-bottom:1rem;}
+.ap-pay-form-warn{color:#006600;font-size:1.2rem;padding-top:0.4rem;}
+.ap-pay-form{font-size:1.4rem}
+.ap-pay-form hr{margin:1rem 0}
+.ap-pay-form-lable{padding:0.3rem 0;width:9rem;}
+.ap-pay-form-input{padding:0.3rem 0;display:inline !important;width:65% !important;padding:0.3rem !important;font-size:1.4rem !important}
+
+
+.ap-pay-item{padding-top:0.1rem}
+.ap-pay-item-title{padding-left: 1rem;margin: 1rem 0 1rem 0;border: 0.1rem solid #CCCCCC;background: #F7F7F7;font-weight: bold;}
+.ap-pay-item-content{margin:0;padding:0;width:50%;float:left;font-size:1.4rem;font-weight:normal;height:2.5rem;line-height:2.5rem;vertical-align:text-top;}
+.ap-pay-item-content input{line-height:2.5rem;}
+.ap-pay-item button{margin-bottom:1rem}
+
+.ap-pay-item-half1{padding-top:0.1rem;width:48%;float:left;}
+.ap-pay-item-half2{padding-top:0.1rem;width:50%;float:left;}
+.ap-pay-item-half1 .ap-pay-item-content{width:100%}
+.ap-pay-item-half2 .ap-pay-item-content{width:100%}
+
+
+.ap-pay-help{margin-bottom:2rem;}
+.ap-pay-help-title{padding-left: 1rem;margin: 1rem 0 0 0;line-height:3rem;color:#FFF;background-color:#006600}
+.ap-pay-help-content{padding: 0.8rem 0.2rem;}
+.ap-pay-help-content p{text-align:center;padding-top:2rem;}
+
+
+
+
+
+
+.footer p {color: #FFF;margin: 0;padding: 15px 0;text-align: center;background: #006600;}
+
+
+
+.clear{clear:both;}
+.tc{text-align:center;}
+.fr{float:right}
+.m1{margin:1rem}
+.m2{margin:2rem}
+.mb1{margin-bottom:1rem;}
