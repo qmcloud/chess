@@ -134,7 +134,8 @@
 代理系统介绍:系统有银商,充值抽成,抽水抽成三种代理模式,通过客户端申请经批准成为代理后,就成为平台的
 合作伙伴代理,代理有自己砖属的代理后台和推广链接，可随时查看下级玩家游戏情况和自身收益。
 完整运营产品
-##### 棋牌源码自带一套搭建教程,小白跟着视频一步一步搭建都会学会！订阅频道： https://www.youtube.com/@qmcloud-qmy  [B站](https://player.bilibili.com/player.html?bvid=BV1nkXkYfEw1&page=1)
+##### 棋牌源码自带一套搭建教程,小白跟着视频一步一步搭建都会学会！订阅频道： https://www.youtube.com/@qmcloud-qmy  
+#### [B站](https://player.bilibili.com/player.html?bvid=BV1nkXkYfEw1&page=1)
 
 #### 演示地址：QQ：407193275  TG：@qmcloud
 
