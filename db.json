@@ -1,0 +1,25 @@
+{
+    "code": 0,
+    "data": {
+        "items": [
+            {
+                "author": "GoFly",
+                "cid": 3,
+                "cidName": "其他类",
+                "des": "本包用了演示私有代码安装，为了让你安装代码仓更直观，并测试代码仓是否安装成功。",
+                "download": 8,
+                "id": 1,
+                "status": 1,
+                "title": "私有仓测试安装包（文章管理）",
+                "updatetime": "2025-05-11 17:06:37"
+            }
+        ],
+        "page": 1,
+        "pageSize": 10,
+        "total": 1
+    },
+    "exdata": null,
+    "message": "获取全部列表",
+    "time": 1746956192707,
+    "token": ""
+}
