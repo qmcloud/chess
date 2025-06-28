@@ -135,8 +135,9 @@
 合作伙伴代理,代理有自己砖属的代理后台和推广链接，可随时查看下级玩家游戏情况和自身收益。
 完整运营产品
 ##### 棋牌源码自带一套搭建教程,小白跟着视频一步一步搭建都会学会！视频订阅频道： https://www.youtube.com/@qmcloud-qmy  
-
 #### 演示地址：https://qmcloud.github.io
+#### 【情怀搭建】 https://www.bilibili.com/video/BV155KUzfEvQ/?share_source=copy_web&vd_source=bb4eff6e0d21d4efcaaeac99f7f32fbf
+
 #### 联系方式 QQ：407193275  TG：@qmcloud
 
 
