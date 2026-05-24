@@ -742,7 +742,7 @@
 - `app && H5 演示地址` - [http://175.178.246.101:82/xiazai/index.html](http://175.178.246.101:82/xiazai/index.html)
 - `【B站】` - [B站](https://www.bilibili.com/video/BV155KUzfEvQ/?share_source=copy_web&vd_source=bb4eff6e0d21d4efcaaeac99f7f32fbf)
 - `【youtube】` - [youtube](https://www.youtube.com/@qmcloud-qmy)
-- `【联系方式】` - QQ加 407193275  TG加 @qmcloud  
+- `【联系方式】` - QQ加 407193275
 
 
 
