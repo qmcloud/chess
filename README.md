@@ -737,8 +737,7 @@
 
 ---
 ## 📚 演示地址
-- `【下载地址】` - [下载地址](http://175.178.246.101/xiazai/index.html)
-- `【管理后台】` - [管理后台](http://175.178.246.101:8200)
+- `【演示下载】` [https://docs.qq.com/doc/DWFBvTERET3h1a2pT](https://docs.qq.com/doc/DWFBvTERET3h1a2pT)
 - `【B站】` - [B站](https://www.bilibili.com/video/BV155KUzfEvQ/?share_source=copy_web&vd_source=bb4eff6e0d21d4efcaaeac99f7f32fbf)
 - `【联系方式】` - QQ加 407193275
 
