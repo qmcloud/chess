@@ -5,14 +5,19 @@
 耗时多年自主研发的高性能棋牌AI框架，基于**最新主流大模型（LLM）**和**多Agent协同决策**技术，通过深度学习和强化学习算法，实现了接近真实玩家智力水平的AI决策能力。
 严禁赌博违法使用，否则后果自负 ，**注意！注意！注意！ 想白嫖的勿扰，开发不易，感谢理解！**
 
+
+## 📚 演示地址
+- `【演示下载】` [https://docs.qq.com/doc/DWFBvTERET3h1a2pT](https://docs.qq.com/doc/DWFBvTERET3h1a2pT)
+- `【B站】` - [B站]([https://www.bilibili.com/video/BV155KUzfEvQ/?share_source=copy_web&vd_source=bb4eff6e0d21d4efcaaeac99f7f32fbf](https://space.bilibili.com/404705203?spm_id_from=333.788.upinfo.head.click))
+- `【联系方式】` - QQ加 407193275 
+- ---------------------------------
+
 ## 📑 目录导航
 
 - [📊 统计信息](#-统计信息)
 - [🀄 麻将系列](#-麻将系列)
 - [🃏 扑克系列](#-扑克系列)
-- [🀐 字牌系列](#-字牌系列)
-- ---------------------------------
-- [📚 演示地址&&联系](#-演示地址)  
+- [🃏 字牌系列](#-字牌系列)
 - ---------------------------------
 ## 核心技术栈
 
@@ -738,8 +743,8 @@
 ---
 ## 📚 演示地址
 - `【演示下载】` [https://docs.qq.com/doc/DWFBvTERET3h1a2pT](https://docs.qq.com/doc/DWFBvTERET3h1a2pT)
-- `【B站】` - [B站](https://www.bilibili.com/video/BV155KUzfEvQ/?share_source=copy_web&vd_source=bb4eff6e0d21d4efcaaeac99f7f32fbf)
-- `【联系方式】` - QQ加 407193275
+- `【B站】` - [B站]([https://www.bilibili.com/video/BV155KUzfEvQ/?share_source=copy_web&vd_source=bb4eff6e0d21d4efcaaeac99f7f32fbf](https://space.bilibili.com/404705203?spm_id_from=333.788.upinfo.head.click))
+- `【联系方式】` - QQ加 407193275 
 
 
 
